@@ -1,0 +1,1 @@
+@tailwind base;@tailwind components;@tailwind utilities;body{margin:0;font-family:system-ui,Avenir,Helvetica,Arial,sans-serif;background-color:#242424;color:#fff}button{cursor:pointer;transition:all .25s}button:hover{transform:translateY(-2px)}
